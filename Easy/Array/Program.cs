@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Array.Problems;
+using System;
 
 namespace Array
 {
