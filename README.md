@@ -6,6 +6,8 @@ Small coding challenges that I try to solve on my own to pass the time and becom
 # Easy:
 - <b>Array</b>
   - Remove duplicates from sorted array: [Code](https://github.com/Riccardo95Facchini/Challenges/tree/main/Easy/Array/Problems/RemoveDuplicatesSortedArray.cs) - [Question](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/)
+  - Best Time to Buy and Sell Stock II: [Code](https://github.com/Riccardo95Facchini/Challenges/blob/main/Easy/Array/Problems/BestTimeBuySellStock.cs)
+  - Rotate Array: [Code](https://github.com/Riccardo95Facchini/Challenges/blob/main/Easy/Array/Problems/RotateArray.cs) - [Question](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/)
 
 
 
