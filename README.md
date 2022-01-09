@@ -10,6 +10,9 @@ Small coding challenges that I try to solve on my own to pass the time and becom
   - Rotate Array: [Code](https://github.com/Riccardo95Facchini/Challenges/blob/main/Easy/Array/Problems/RotateArray.cs) - [Question](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/)
   - Contains Duplicate: [Code](https://github.com/Riccardo95Facchini/Challenges/blob/main/Easy/Array/Problems/ContainsDuplicateClass.cs) - [Question](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/)
   - Single Number: [Code](https://github.com/Riccardo95Facchini/Challenges/blob/main/Easy/Array/Problems/SingleNumberClass.cs) - [Question](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)
+  - Intersection of Two Arrays II: [Code](https://github.com/Riccardo95Facchini/Challenges/blob/main/Easy/Array/Problems/IntersectionTwoArrays.cs) - [Question](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/)
+  - Plus One: [Code](https://github.com/Riccardo95Facchini/Challenges/blob/main/Easy/Array/Problems/PlusOneClass.cs) - [Question](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/)
+  - MoveZeroes: [Code](https://github.com/Riccardo95Facchini/Challenges/blob/main/Easy/Array/Problems/MoveZeroesClass.cs) - [Question](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/)
 
 
 
