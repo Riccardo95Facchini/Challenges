@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 /*
  https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/
@@ -12,7 +10,7 @@ Input: nums = [2,2,1]
 Output: 1
  */
 
-namespace Array.Problems
+namespace Problems.Solved
 {
     public static class SingleNumberClass
     {

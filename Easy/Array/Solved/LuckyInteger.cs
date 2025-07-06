@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Array.Problems;
+namespace Problems.Solved;
 
 /*
  Example 1:

@@ -1,4 +1,4 @@
-﻿namespace Array.Problems;
+﻿namespace Problems.Solved;
 
 public class TwoSums
 {

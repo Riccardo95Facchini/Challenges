@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-/*
+﻿/*
  * https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/
  Given an array, rotate the array to the right by k steps, where k is non-negative.
 
@@ -17,7 +13,7 @@ Output:       [-100,3,99,-1]
  
  */
 
-namespace Array.Problems
+namespace Problems.Solved
 {
     public static class RotateArray
     {

@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 /*
  https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/
@@ -12,7 +10,7 @@ using System.Text;
  */
 
 
-namespace Array.Problems
+namespace Problems.Solved
 {
     public static class IntersectionTwoArrays
     {

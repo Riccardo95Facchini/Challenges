@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
 /*
  https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/
@@ -10,7 +8,7 @@ using System.Text;
     Output: true
  */
 
-namespace Array.Problems
+namespace Problems.Solved
 {
     public static class ContainsDuplicateClass
     {

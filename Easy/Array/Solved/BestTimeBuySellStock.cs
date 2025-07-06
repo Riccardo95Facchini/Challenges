@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-/*
+﻿/*
  * https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/
  You are given an integer array prices where prices[i] is the price of a given stock on the ith day.
 
@@ -18,7 +14,7 @@ Output: 4
 
  */
 
-namespace Array.Problems
+namespace Problems.Solved
 {
     public static class BestTimeBuySellStock
     {

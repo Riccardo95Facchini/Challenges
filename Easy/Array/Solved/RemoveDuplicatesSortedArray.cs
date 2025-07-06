@@ -1,5 +1,3 @@
-using System;
-
 /*
 https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/
 
@@ -17,7 +15,7 @@ Return k after placing the final result in the first k slots of nums.
 Do not allocate extra space for another array. You must do this by modifying the input array in-place with O(1) extra memory.
 */
 
-namespace Array
+namespace Problems.Solved
 {
     public static class RemoveDuplicatesSortedArray
     {
