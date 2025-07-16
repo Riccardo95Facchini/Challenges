@@ -22,7 +22,7 @@ public class ReverseInteger
         {
             int toRemove = (x % 10);
 
-            if (result > check || (result == check && toRemove > checkRemaining))
+            if (result > check || (result == check && toRemove >= checkRemaining))
                 return 0;
 
             result = (result * 10) + toRemove;
