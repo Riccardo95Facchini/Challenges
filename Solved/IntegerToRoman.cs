@@ -1,5 +1,6 @@
 ﻿namespace Problems.Solved;
-internal class IntegerToRoman
+
+public class IntegerToRoman
 {
     // https://leetcode.com/problems/integer-to-roman/description/
     /*
